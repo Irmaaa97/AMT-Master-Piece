@@ -8,3 +8,4 @@ On this page you will find my Master Piece for the course Art, Mathematics and T
 
 ### Poster
 ![Image](src)
+![My poster](https://github.com/Irmaaa97/AMT_MasterPiece/blob/gh-pages/Padovan_Poster.png?raw=true)
