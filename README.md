@@ -4,7 +4,7 @@ On this page you will find my Master Piece for the course Art, Mathematics and T
 
 
 ### Padovan Inspired Art Piece
-[Link](https://irmaaa97.github.io/AMT_MasterPiece/Padovan/)
+[You can find the art piece on this page](https://irmaaa97.github.io/AMT_MasterPiece/Padovan/)
 
 ### Poster
 ![Image](src)
