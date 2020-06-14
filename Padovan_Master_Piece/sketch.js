@@ -45,7 +45,7 @@ var s;                         // scale
 
 function setup() {
 //  rot = 60* PI /180;
-  canvas_x = 950; canvas_y = 800;
+  canvas_x = 1200; canvas_y = 700;
   createCanvas(canvas_x, canvas_y);
   smooth();
   pad.length = 19-1;
