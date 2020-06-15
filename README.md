@@ -8,6 +8,6 @@ The piece can be viewed on [this page](https://irmaaa97.github.io/AMT-Master-Pie
 
 ### Poster
 
-![TEST](Poster.png)
+![TEST](PosterV2.png)
 
 
