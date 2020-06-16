@@ -2,6 +2,8 @@
 Master Piece for the course AMT at the Univeristy of Twente
 By Irma Harms
 June 2020
+
+Interaction (button and slider) code inspired by Michael Bui
 */
 
 
